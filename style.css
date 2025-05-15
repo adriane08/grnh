@@ -11,7 +11,7 @@ body {
     color: var(--cor-principal);
 }
 */
---cor-principal: #82d2c0;
+--cor-principal: #ffffffe0;
 --cor-secundaria: #a0c85fe5;
 --cor-destaque: #72d8e3;
 }
@@ -34,7 +34,7 @@ h1, h2, h5 {
 }
 
 a, .btn-link:hover {
-    color: var(--cor-principal)
+    color: var(--cor-secundaria)
 }
 
 a:hover{
