@@ -32,7 +32,10 @@ h1, h2, h5 {
     color: var(--cor-destaque);
     font-weight: 700;
 }
-
+.lead {
+    color: var(--cor-principal);
+    font-weight: 700;
+}
 a, .btn-link:hover {
     color: var(--cor-secundaria)
 }
