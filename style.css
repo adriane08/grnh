@@ -41,7 +41,7 @@ a:hover{
     color: var(--cor-destaque);
 }
 header{
-    background-image: url(f.jpg);
+    background-image: url(img/f.jpg);
     margin-block-start:20px;
     padding:10px;
 
