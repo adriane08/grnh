@@ -11,7 +11,7 @@ body {
     color: var(--cor-principal);
 }
 */
---cor-principal: #ffffffe0;
+--cor-principal: #ffffff;
 --cor-secundaria: #a0c85fe5;
 --cor-destaque: #72d8e3;
 }
